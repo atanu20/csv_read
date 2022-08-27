@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
   // // const data = xlsx.utils.sheet_to_json(ws);
   // // console.log(data);
 
-  res.send('Welcome to Bill Management');
+  res.send('Welcome to Data Management');
 });
 
 // Connect to mongodb
