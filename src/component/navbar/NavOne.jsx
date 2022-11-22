@@ -18,6 +18,7 @@ const NavOne = () => {
     console.clear();
     window.location.href = '/login';
   };
+
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
